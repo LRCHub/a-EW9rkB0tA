@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Asian Flow（feat. ¥ellow Bucks）",
+  "base_artist": "Tee",
+  "createdAt": "2026-04-03T14:35:19.407882Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Asian Flow (feat. ¥ellow Bucks)",
+      "artist": "Tee",
+      "has_synced": false,
+      "path": "select/pl_01_Asian_Flow_(feat._¥ellow_Bucks)_Tee.txt"
+    }
+  ]
+}
